@@ -44,8 +44,8 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "u3ljpgbc0t",
+    "favicon": "@PROJECT_PATH@/assets/images/vfast-favicon.png",
+    "mbrsiteDomain": "mbxixoyiwv",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -56,17 +56,18 @@
     "uniqCompNum": 20,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "V-FAST Consortium",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
